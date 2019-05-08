@@ -2,12 +2,15 @@
 ![doodles](https://www.google.com/logos/doodles/2016/teachers-day-2016-us-6296626244091904.2-hp2x.gif)
 
 ----
-[![Build Status](https://travis-ci.org/Wechat-Group/weixin-java-tools-springmvc.svg?branch=master)](https://travis-ci.org/Wechat-Group/weixin-java-tools-springmvc)
+[![码云Gitee](https://gitee.com/binary/weixin-java-tools-springmvc/badge/star.svg?theme=blue)](https://gitee.com/binary/weixin-java-tools-springmvc)
+[![Github](http://github-svg-buttons.herokuapp.com/star.svg?user=Wechat-Group&repo=weixin-java-demo-springmvc&style=flat&background=1081C1)](https://github.com/Wechat-Group/weixin-java-demo-springmvc)
+[![Build Status](https://travis-ci.org/Wechat-Group/weixin-java-demo-springmvc.svg?branch=master)](https://travis-ci.org/Wechat-Group/weixin-java-demo-springmvc)
 
-This repository is a wechat springmvc demo based on **weixin-java-tools**
+This repository is a wechat springmvc demo based on **WxJava**
 
-本仓库的项目是一个基于**weixin-java-tools**的springmvc Demo
+本仓库的项目是一个基 于**[WxJava](https://github.com/wechat-group/WxJava)** 的springmvc Demo.
 
+新手遇到问题，请务必先阅读[【开发文档首页】](https://github.com/Wechat-Group/WxJava/wiki)的常见问题部分，可以少走很多弯路，节省不少时间。
 
 
 ## 本项目目前实现了如下功能：
